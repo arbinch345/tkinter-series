@@ -1,22 +1,3 @@
-# 🖥️ Python Tkinter Series
-
-<div align="center">
-
-<img src="Images/tkinter.png" width="180">
-
-# 🎨 Learn Python Tkinter Through Practical Projects
-
-**A complete hands-on Tkinter series covering beginner to intermediate GUI development using Python.**
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)
-![Desktop Apps](https://img.shields.io/badge/Desktop-Applications-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
-
-</div>
-
----
-
 # 📖 What is Tkinter?
 
 **Tkinter** is Python's **standard Graphical User Interface (GUI) library** that allows developers to create desktop applications with windows, buttons, menus, text boxes, dialogs, images, and many other interactive components.
